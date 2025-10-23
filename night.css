@@ -1,6 +1,6 @@
 body {
-  --primary-color: #0f4c24;
-  --secondary-color: #193422;
+  --primary-color: rgb(15, 76, 36);
+  --secondary-color: rgb(25, 52, 34);
   --tertiary-color: rgba(94, 102, 0, 1);
   --neutral-color: rgb(66, 66, 0);
 
