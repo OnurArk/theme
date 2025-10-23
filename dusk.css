@@ -7,18 +7,26 @@ body {
   --paper-color: rgba(60, 60, 60, 1);
   --header-background-color: rgba(38, 38, 38, 1);
   --container-background-color: rgba(38, 38, 38, 1);
-  --text-color: rgba(169, 169, 169, 1);
-  --inverted-text-color: rgba(169, 169, 169, 1);
   --active-background-color: rgba(60, 60, 60, 1);
-  --active-text-color: rgba(255, 255, 255, 0.8);
   --button-color: rgb(255, 255, 255);
   --popup-background-color: rgba(75, 70, 92, 0.85);
   --menu-background-color: rgba(115, 115, 115, 1);
-  --switch-active-background-color: rgba(115, 115, 115, 1);
-  --switch-inactive-background-color: rgba(38, 38, 38, 1);
-  --shadow-color: rgba(0, 0, 0, 0.2);
 
   --instrument-enhanced-primary-color: rgb(129, 223, 254);
+
+  /*Text colours*/
+  --text-color: rgba(169, 169, 169, 1);
+  --inverted-text-color: rgba(169, 169, 169, 1);
+  --active-text-color: rgba(255, 255, 255, 0.8);
+
+  /*Shadow colours*/
+  --shadow-color: rgba(0, 0, 0, 0.2);
+
+  /*Switch colours*/
+  --switch-active-background-color: rgba(115, 115, 115, 1);
+  --switch-inactive-background-color: rgba(38, 38, 38, 1);
+
+  /*Divider colours*/
   --divider-color: rgba(255, 255, 255, 0.08);
 
   /*Alert colours*/
