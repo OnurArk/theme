@@ -1,0 +1,37 @@
+body {
+  --primary-color: #28a0ff;
+  --secondary-color: #5779a2;
+  --tertiary-color: rgba(169, 169, 169, 1);
+  --neutral-color: rgba(255, 255, 255, 0.6);
+
+  --paper-color: rgba(60, 60, 60, 1);
+  --header-background-color: rgba(38, 38, 38, 1);
+  --container-background-color: rgba(38, 38, 38, 1);
+  --text-color: rgba(169, 169, 169, 1);
+  --inverted-text-color: rgba(169, 169, 169, 1);
+  --active-background-color: rgba(60, 60, 60, 1);
+  --active-text-color: rgba(255, 255, 255, 0.8);
+  --button-color: rgb(255, 255, 255);
+  --popup-background-color: rgba(75, 70, 92, 0.85);
+  --menu-background-color: rgba(115, 115, 115, 1);
+  --switch-active-background-color: rgba(115, 115, 115, 1);
+  --switch-inactive-background-color: rgba(38, 38, 38, 1);
+  --shadow-color: rgba(0, 0, 0, 0.2);
+
+  --instrument-enhanced-primary-color: rgb(129, 223, 254);
+  --divider-color: rgba(255, 255, 255, 0.08);
+
+  /*Alert colours*/
+  --alert-running-color: rgb(19, 138, 0);
+  --alert-caution-color: rgb(237, 206, 6);
+  --alert-warning-color: rgb(246, 148, 0);
+  --alert-alarm-color: rgb(229, 38, 38);
+  --alert-critical-alarm-color: rgb(229, 0, 229);
+
+  /*Border colours*/
+  --border-color: rgba(0, 0, 0, 0.55);
+  --border-outline-color: rgba(0, 0, 0, 0.9);
+  --border-edge-color: rgba(255, 255, 255, 0.05);
+  --border-solid-color: rgb(51, 51, 51);
+  --border-silhouette-color: rgb(0, 0, 0);
+}
